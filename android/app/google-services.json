@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "760320375362",
+    "project_id": "govistafinal",
+    "storage_bucket": "govistafinal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760320375362:android:b1fab15a47271696c28bdb",
+        "android_client_info": {
+          "package_name": "com.example.govistaofficial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760320375362-nkise2cnej41591tr6pgv6hbc3k2b3bg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.govistaofficial",
+            "certificate_hash": "91d838ddcc6e66f230910675a4e0183d641b34c0"
+          }
+        },
+        {
+          "client_id": "760320375362-a3g9efv0pa5s2o9n2u4q5q1kalo1j0a3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkjPwgTPyAPMA0KOQ4yuxOZ7uzsFoetwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760320375362-a3g9efv0pa5s2o9n2u4q5q1kalo1j0a3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "760320375362-kruqmnd51ou76lkrltdv8n19d5ioag8q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.govistaofficial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
